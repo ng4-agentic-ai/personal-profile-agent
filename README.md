@@ -4,7 +4,7 @@ app_file: app.py
 sdk: gradio
 sdk_version: 5.49.1
 ---
-# Personal Profile AI
+# Agent Profile
 
 This project is a lightweight AI-powered personal profile assistant built using **Gradio** and **OpenAI**.
 It represents my professional background and experience and can answer questions about my profile, career, and skills in a conversational way.
